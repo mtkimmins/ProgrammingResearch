@@ -1,0 +1,32 @@
+General Game Structure -- How Games are conceptually structured across several languages
+
+Main Research Question(s):
+- What is the basic, unchangeable structure of a programmed game across multiple languages?
+
+Hypotheses:
+- There will be a series of loops 
+-
+
+Methods/Procedures:
+- Gather data:
+  - What languages do I want to include?
+    - Python, JS, Java, C#, C++, Rust, Lua, Swift
+  - Should I include Engine languages (ex: GDScript, GML, Unity C#, MicroScript)
+    - No. The goal of this paper is to discover how I can become independant from pre-scripted engines.
+- Comparison
+  - Filter out similarities
+  - Use similarities as data for results representation
+
+How I want to represent the results:
+- Show flow of game data in flow charts
+  - Increase detail of successive flow charts
+  - There will be n flow charts for n loops in the game model
+- Verbal explanation instead of a code-based approach so I can conceptually understand the flow of a game instead of relying on copy-paste code
+
+Time dedicated:
+- <10 hrs finding data pool
+- <5 hrs comparing data
+- <2 hrs representing data
+- <10 hrs writing conclusion, discussion, results
+
+END
